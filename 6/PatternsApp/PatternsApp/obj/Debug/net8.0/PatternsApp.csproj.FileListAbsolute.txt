@@ -1,0 +1,14 @@
+D:\ooplaba\6\PatternsApp\PatternsApp\bin\Debug\net8.0\PatternsApp.exe
+D:\ooplaba\6\PatternsApp\PatternsApp\bin\Debug\net8.0\PatternsApp.deps.json
+D:\ooplaba\6\PatternsApp\PatternsApp\bin\Debug\net8.0\PatternsApp.runtimeconfig.json
+D:\ooplaba\6\PatternsApp\PatternsApp\bin\Debug\net8.0\PatternsApp.dll
+D:\ooplaba\6\PatternsApp\PatternsApp\bin\Debug\net8.0\PatternsApp.pdb
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.AssemblyInfoInputs.cache
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.AssemblyInfo.cs
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.csproj.CoreCompileInputs.cache
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.dll
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\refint\PatternsApp.dll
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.pdb
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\PatternsApp.genruntimeconfig.cache
+D:\ooplaba\6\PatternsApp\PatternsApp\obj\Debug\net8.0\ref\PatternsApp.dll

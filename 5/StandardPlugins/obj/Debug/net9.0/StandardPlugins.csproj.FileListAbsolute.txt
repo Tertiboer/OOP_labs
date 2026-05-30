@@ -1,0 +1,15 @@
+D:\ooplaba\5\StandardPlugins\bin\Debug\net9.0\StandardPlugins.deps.json
+D:\ooplaba\5\StandardPlugins\bin\Debug\net9.0\StandardPlugins.dll
+D:\ooplaba\5\StandardPlugins\bin\Debug\net9.0\StandardPlugins.pdb
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.GeneratedMSBuildEditorConfig.editorconfig
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.AssemblyInfoInputs.cache
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.AssemblyInfo.cs
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.csproj.CoreCompileInputs.cache
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.dll
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\refint\StandardPlugins.dll
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.pdb
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\ref\StandardPlugins.dll
+D:\ooplaba\5\StandardPlugins\bin\Debug\net9.0\PluginInterface.dll
+D:\ooplaba\5\StandardPlugins\bin\Debug\net9.0\PluginInterface.pdb
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\StandardPlugins.csproj.AssemblyReference.cache
+D:\ooplaba\5\StandardPlugins\obj\Debug\net9.0\Standard.49102FBA.Up2Date
